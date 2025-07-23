@@ -1,3 +1,5 @@
+# Esse arquivo descreve como construir uma imagem
+
 # Define a imagem base (ex: node, python, ubuntu, etc)
 FROM node:latest
  
